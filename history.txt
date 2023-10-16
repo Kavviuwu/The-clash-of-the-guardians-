@@ -1,0 +1,53 @@
+GAME HISTORY
+pues joins the battle
+Thunderbird
+Sigrid the Swift
+Cerberus
+These cards were chosen by pues to start the battle with
+
+Hydra
+Baron von Bloodsucker
+Erik the Red
+These cards were chosen by the BOT to start the battle with
+
+pues has the first turn
+
+Hydra was DAMAGED by Thunderbird
+By dealing 45 points of damage
+
+
+
+Cerberus was DAMAGED by Hydra
+By dealing 20 points of damage
+
+
+
+Hydra was DAMAGED by Sigrid the Swift
+By dealing 10 points of damage
+
+
+
+Cerberus was DAMAGED by Hydra
+By dealing 20 points of damage
+
+
+
+Hydra was KILLED by Thunderbird
+By dealing 45 points of damage
+
+
+
+Cerberus was DAMAGED by Hydra
+By dealing 20 points of damage
+
+
+
+Dragon was placed on battle
+
+
+Cerberus was KILLED by Hydra
+By dealing 20 points of damage
+
+
+
+Game ended by pues's choice
